@@ -1,5 +1,5 @@
 # 💫 About Me:
-+4 años en Desarrollo de aplicaciones Web tanto como Software Enginner, Freelancer y Developer Backend en empresas B2C
++5 años en Desarrollo de aplicaciones Web tanto como Software Enginner orientado a Backend Developer
 
 
 ## 🌐 Socials:
